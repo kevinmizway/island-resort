@@ -3,9 +3,12 @@ img {
   width: 500px;
   display:block;
   margin: auto;
+  padding-bottom: 50px;
+  padding-top: 50px;
 }
 
 h1 , h2 , p {
   font-family: sans-serif;
   text-align: center;
+
 }
